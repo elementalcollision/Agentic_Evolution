@@ -1,5 +1,7 @@
 # **Agentic Evolution: A Kill/Fuck/Marry Framework for Selection Dynamics in Digital Ecosystems**
 
+by David Graham
+
 ## **1\. Introduction: Framing Agentic Evolution via KFM**
 
 ### **1.1. The Challenge of Managing Complexity and Evolution in Digital Ecosystems**
